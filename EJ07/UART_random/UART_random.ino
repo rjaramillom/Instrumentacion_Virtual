@@ -33,6 +33,6 @@ void setup() {
 void loop() {
   randNumber = random(300);
   Serial.println(randNumber);
-  delay(50);
+  delay(250);
 }
   
